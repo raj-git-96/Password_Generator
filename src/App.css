@@ -1,0 +1,83 @@
+.generator_box{
+  width: 40%;
+  box-shadow: 0 0 7px #0e0d0d;
+  margin: 0 auto;
+  background-color: teal;
+  border-radius: 4px;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.generator_box h4{
+  padding: 10px;
+}
+
+.generator_box div{
+  padding: 0 0 25px 0;
+}
+
+.span__1 input{
+  width: 85%;
+  border: none;
+  height: 36px;
+  background-color: black;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+  margin-right: 4px;
+}
+
+.span__1 i{
+  margin-left: 8px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.span__1{
+  box-shadow: 0 0 5px black;
+  width: 85%;
+  padding: 10px 7px 10px 2px;
+}
+
+.div__2,
+.div__3,
+.div__4,
+.div__5,
+.div__6{
+  text-align: left;
+  margin-left: 25px;
+}
+
+.div__3 input,
+.div__4 input,
+.div__5 input,
+.div__6 input{
+  float: right;
+  margin-right: 20px;
+  width: 20px;
+  height: 25px;
+}
+
+
+.div__2 input{
+  width: 15%;
+  float: right;
+  margin-right: 20px;
+}
+
+.div__7 button{
+  border-radius: 4px;
+  padding: 5px 35px;
+  background-color: darkcyan;
+  box-shadow: 0 5px 15px;
+  border: none;
+}
+
+.div__8 a{
+  color: black;
+  margin-left: 10px;
+}
+
+.div__8 a:hover{
+  color: white;
+}
