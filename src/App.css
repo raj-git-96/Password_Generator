@@ -43,7 +43,8 @@
 .div__3,
 .div__4,
 .div__5,
-.div__6{
+.div__6,
+.div__8{
   text-align: left;
   margin-left: 25px;
 }
@@ -51,7 +52,8 @@
 .div__3 input,
 .div__4 input,
 .div__5 input,
-.div__6 input{
+.div__6 input,
+.div__8 input{
   float: right;
   margin-right: 20px;
   width: 20px;
